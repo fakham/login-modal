@@ -1,0 +1,22 @@
+#hider {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 1600px;
+  height: 2000px;
+  margin-top: -800px; /*set to a negative number 1/2 of your height*/
+  margin-left: -500px; /*set to a negative number 1/2 of your width*/
+  /*
+        z- index must be lower than pop up box
+       */
+  z-index: 99;
+  background-color: Black;
+  opacity: 0.6;
+}
+
+#login-modal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
