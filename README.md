@@ -2,7 +2,7 @@
 
 You can integrate this modal into your web page and you'll have a nice designed login modal.
 
-## How to integrate ?
+## How to integrate
 
 - copy css, fonts, img, js and vendor folders to your project.
 - go to the web page you want to add the modal to and link your files you just copied (see [index.hmtl](https://github.com/fakham/login-modal/index.html))
